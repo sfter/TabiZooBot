@@ -47,12 +47,20 @@ Start bot : [HERE](https://t.me/tabizoobot/tabizoo?startapp=brK5j)
 4. install the require library
    ```
    INSTALL.bat
+   or
+   pip install -r requirements.txt
+   or
+   pip3 install -r requirements.txt
    ```
 
 5. fill the `data.txt` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)
 6. execute the main program 
    ```
    START.bat
+   or
+   python claim-tabi.py
+   or
+   python3 claim-tabi.py
    ```
 # How to Get Data
    
