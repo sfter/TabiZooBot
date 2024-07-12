@@ -47,8 +47,10 @@ Start bot : [HERE](https://t.me/tabizoobot/tabizoo?startapp=brK5j)
 4. install the require library
    ```
    INSTALL.bat
+   
    or
    pip install -r requirements.txt
+   
    or
    pip3 install -r requirements.txt
    ```
@@ -57,8 +59,10 @@ Start bot : [HERE](https://t.me/tabizoobot/tabizoo?startapp=brK5j)
 6. execute the main program 
    ```
    START.bat
+   
    or
    python claim-tabi.py
+   
    or
    python3 claim-tabi.py
    ```
